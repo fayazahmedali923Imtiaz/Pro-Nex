@@ -1,0 +1,7 @@
+{
+  "name": "Pro Nex Chat",
+  "description": "A modern chat application with a sleek user interface, featuring a sidebar, a central chat area, and an advanced text input component.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
